@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
-from chatbot import ask_bot
+# from chatbot import ask_bot 
 
 st.set_page_config(page_title="Retail Dashboard", layout="wide")
 st.title("🛍️ Retail Performance Dashboard with AI Chat")
